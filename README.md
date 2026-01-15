@@ -86,7 +86,7 @@ UX designers perform a number of different tasks and, therefore, use a range of 
 
 The deliverables that UX designers will produce as part of their job include wireframes, prototypes, user flow diagrams, specification and tech docs, websites and applications, mockups, presentations, personas, user profiles, videos, and, to a lesser degree, reports.[28] Documenting design decisions, in the form of annotated wireframes, gives the developer the necessary information they may need to successfully code the project.[29]
 
-![Tux](static/Tux.png)
+![User Experience](pexels-tima-miroshnichenko-6498272.jpg)
 
 ### After launching a project
 Requires:
