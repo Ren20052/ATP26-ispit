@@ -33,7 +33,7 @@ Another portion of the research is understanding the end-user and the purpose of
 
 It helps to identify and prove or disprove assumptions, find commonalities across target audience members, and recognize their needs, goals, and mental models.
 
-![Tux](static/Tux.png)
+![An example of research](pexels-brettjordan-7568301.jpg)
 
 ### Visual design
 Visual design, also commonly known as graphic design, user interface design, communication design, and visual communication, represents the aesthetics or look and feel of the front end of any user interface. Graphic treatment of interface elements is often perceived as the visual design. The purpose of visual design is to use visual elements like colors, images, and symbols to convey a message to its audience. Fundamentals of Gestalt psychology and visual perception give a cognitive perspective on how to create effective visual communication.[7]
